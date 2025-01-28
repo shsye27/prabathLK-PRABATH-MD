@@ -1,10 +1,10 @@
 {
 "name": "BOTSON-MD",
 "version": "2.0.6",
-"description": "BOTSON-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "sachin md has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name botson-md",
+"start": "pm2 start start.js --deep-monitoring --attach --name sachin md",
 "stop": "pm2 stop prabath-md",
 "restart": "pm2 restart prabath-md"
 },
